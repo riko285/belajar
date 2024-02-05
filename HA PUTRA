@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HA DJAMALI PUTRA I</title>
+    <link rel="stylesheet" href="haputra.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Alike&family=Cinzel+Decorative:wght@400;900&family=Inter:wght@300;900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body class="container">
+    <div class="hero">
+        <img src="hero.png" alt="">
+    </div>
+    <div>
+        <li class="logo">
+            <a>
+                <img class="img" src="logo.png" alt="">
+            </a>
+        <li class="TAG">
+            HA DJAMALI PUTRA I
+        </li>
+        </li>
+
+        <nav class="navbar">
+            <div>
+                <li>
+                    <a href="/testing.html" class="home">
+                        HOME
+                    </a>
+                </li>
+            </div>
+            <div>
+                <li class="home">
+                    <a class="MORE1">
+                        MORE
+                    </a>
+                </li>
+            </div>
+            <div>
+                <li class="contact">
+                    <a class="CONTACT1">
+                        CONTACT
+                    </a>
+                </li>
+            </div>
+        </nav>
+        <h1 class="jargon">
+            <li class="list">
+                Berhias
+            </li>
+            <li class="list">
+                Sambil
+            </li>
+            <li class="list">
+                Menabung
+            </li>
+            <div class="line">
+                <img src="Info.png" alt="">
+            </div>
+        </h1>
+        </nav>
+        <div class="glompos">
+            <img class="glom" src="gelombang.png" alt="">
+        </div>
+
+    </div>
+
+    <li class="home">
+        <a href="/testing.html">
+            MORE
+        </a>
+</body>
+
+</html>
