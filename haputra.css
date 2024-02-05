@@ -1,0 +1,128 @@
+:root {
+    --color-yellow: #F9C916;
+    --color-navy: #003047;
+    --colort-pink: #B93C61;
+    --color-white: #FFFFFF;
+}
+
+.container {
+    background-color: #F9C916;
+    height: 100px
+}
+
+.logo {
+    list-style-type: none;
+    display: flex;
+    position: absolute;
+}
+
+.TAG {
+    list-style-type: none;
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 170px;
+    font-family: alike;
+
+}
+
+.img {
+    padding-left: 50px;
+    margin-top: -20px;
+}
+
+
+.home {
+    list-style-type: none;
+    margin-left: 50px;
+
+}
+
+.more {
+    list-style-type: none;
+    margin-left: 50px;
+}
+
+.contact {
+    list-style-type: none;
+    margin-left: 50px;
+}
+
+.HOME1 {
+    display: flex;
+    font-family: alike;
+}
+
+.MORE1 {
+    display: flex;
+    font-family: alike;
+}
+
+.contact {
+    display: flex;
+    font-family: alike;
+}
+
+.navbar {
+    display: flex;
+    padding-left: 1100px;
+    padding-top: 20px;
+}
+
+.jargon {
+    position: relative;
+    font-family: alike;
+    font-size: 90px;
+    padding-top: 60px;
+}
+
+.list {
+    list-style-type: none;
+    padding-left: 65px;
+    
+}
+
+.hero {
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 110px;
+    
+
+}
+
+.line {
+    position: absolute;
+    padding-left: 65px;
+    margin-top: -60px;
+}
+
+.glom{
+    position: absolute;
+    width: 100%;
+    
+}
+
+.glompos {
+    margin-top: -300px;
+}
+
+.footer{
+    position: absolute;
+    width: 100%;
+    
+}
+
+.footerpos{
+    padding-top: 200px;
+    
+}
+
+.content{
+    position: absolute;
+    width: 100%;
+}
+
+.info{
+    padding-top: 
+    600px;
+}
+
